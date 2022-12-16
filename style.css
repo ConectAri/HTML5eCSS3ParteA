@@ -2,9 +2,26 @@ body{
     /* background COR DE FUNDO */
     background: #cccccc;  
 }
+
+#banner{
+
+    /* width é a propriedade que usamos para alterar a largura de um elemento */
+    width: 100%;
+}
+
+h1{
+    text-align: center
+}
 p {
-    text-align: center;
+    text-align: center
      }
+
+     /* TRALHA E NOME DO IDENTIFICADOR PARA REFERENCIAR */
+     #missao{
+        font-size: 20px 
+     }
+
+
 
      /* Todos os strongs que estão dentro de em */
      em strong{
