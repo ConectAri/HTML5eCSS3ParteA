@@ -1,15 +1,19 @@
 body{
-    /* background COR DE FUNDO */
-    background: #cccccc;  
-}
+    
+     }
 
 #banner{
-
     /* width é a propriedade que usamos para alterar a largura de um elemento */
     width: 100%;
 }
 
-h1{
+.principal{
+   /* background COR DE FUNDO CINZA */
+    background: #cccccc; 
+    padding: 30px;
+}
+
+h1 {
     text-align: center
 }
 p {
@@ -17,16 +21,51 @@ p {
      }
 
      /* TRALHA E NOME DO IDENTIFICADOR PARA REFERENCIAR */
-     #missao{
+     #missao {
         font-size: 20px 
      }
 
 
-
      /* Todos os strongs que estão dentro de em */
-     em strong{
+     em strong {
 
         /* color COR DE ELEMENTO, DE UM TEXO */
-        color: red;
+        color: #FF0000;
         
      }
+
+     /* Quando usamos uma class usamos o ponto */
+     .itens {
+        font-style: italic;
+     }
+
+     /* Quando usamos uma class para demar precisamos usar o ponto */
+     .beneficios {
+        background: #FFFFFF;
+        /* ESPAÇAMENTO INTERNO PARA TODOS OS LADOS */
+        padding: 20px;
+        
+     }
+
+     h2{
+      /* TÍTULO CENTRALIZADO */
+
+        text-align: center;
+     }
+
+     ul{
+      /* Somente o tamanho do conteúdo mas me deixa mexer nos espaçamentos */
+      display: inline-block;
+      vertical-align: top;
+      width: 20%; /* LARGURA */
+      margin-right: 10%;
+     }
+      /* CRIANDO MARCAÇÃO PARA ESSA IMAGEM */
+      .imagembeneficios{
+         width: 50% ;
+
+      }
+
+
+     
+     
