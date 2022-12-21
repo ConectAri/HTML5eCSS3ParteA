@@ -13,6 +13,10 @@ body {
 
 .titulo-principal{
 	padding-left: 20px;
+<<<<<<< HEAD
+}
+
+=======
 	
 }
 
@@ -27,6 +31,7 @@ h2{
 	text-align: center
 
 }
+>>>>>>> 84a0633735b4a07f1af02df23151b8c79560a999
 
 p {
 	text-align: center;
@@ -47,9 +52,23 @@ em strong {
 .beneficios {
 	background: #FFFFFF;
 	padding: 20px;
+<<<<<<< HEAD
+	
+
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+=======
 }
 
 
+>>>>>>> 84a0633735b4a07f1af02df23151b8c79560a999
 ul {
 	display: inline-block;
 	vertical-align: top;
